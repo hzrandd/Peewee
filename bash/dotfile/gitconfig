@@ -1,0 +1,15 @@
+[alias]
+        st = status
+        cm = commit
+        ck = checkout
+        lg = log --pretty=oneline --graph --abbrev-commit --decorate --all
+[color]
+        ui = auto
+[user]
+        email = ruandongdong2012@gmail.com
+        name = ruandongdong
+[http] sslverify = false
+[core]
+        editor = vim
+[push]
+        default = matching
